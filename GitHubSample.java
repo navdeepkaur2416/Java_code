@@ -8,7 +8,7 @@ public class GitHubSample {
 	//Given an integer check if it is a Palindrome .
 		public void chkPalindrome(){
 			//int num=55455;
-			 
+			 //extra comments hbjkbk
 			System.out.print("Enter Number: "); 
 			Scanner read = new Scanner(System.in);
 		       int num = read.nextInt();
@@ -55,4 +55,3 @@ public class GitHubSample {
 	   }*/
 
 }
-
